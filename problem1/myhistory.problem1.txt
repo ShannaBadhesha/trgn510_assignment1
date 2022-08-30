@@ -1,0 +1,135 @@
+    1  clear
+    2  ssh badhesha-F22@trgn.bioinfom.io
+    3  .bashrc .bashcold
+    4  exit
+    5  clear
+    6  ssh badhesha-F22@trgn.usc.edu
+    7  bash
+    8  ssh badhesha-F22@trgn.usc.edu
+    9  bash
+   10  wd
+   11  pwd
+   12  ls
+   13  exit
+   14  exit
+   15  bash
+   16  exit
+   17  exit
+   18  bash
+   19  exit
+   20  bash
+   21  pwd
+   22  mkdir TRGN514
+   23  ls 
+   24  cd TRGN514
+   25  mkdir Activity_1A
+   26  ls
+   27  pwd
+   28  ls
+   29  cd TRGN514
+   30  ls
+   31  cd Activity_1A/
+   32  pwd
+   33  ssh badhesha-F22@trgn.usc.edu
+   34  cd /home
+   35  ls
+   36  cd badhesha-F22
+   37  ls
+   38  cd TRGN514/
+   39  ls
+   40  cd Activity_1A/
+   41  pwd
+   42  vi
+   43  vi heartrate.txt
+   44  pwd
+   45  ls
+   46  chsh -s /bin/zsh
+   47  pwd
+   48  ls
+   49  cd TRGN514/
+   50  ls
+   51  cd A
+   52  cd Activity_1A/
+   53  ls
+   54  clear
+   55  cp -v /etc/skel/.bash* ~/
+   56  exit
+   57  bash
+   58  exit
+   59  bash
+   60  who
+   61  bash
+   62  hostname
+   63  bash
+   64  ls
+   65  mkdir assignments
+   66  ls
+   67  cd assignments/
+   68  git clone https://github.com/ShannaBadhesha/trgn510_assignment1.git
+   69  cd trgn510_assignment1/
+   70  ls
+   71  vim Readme.md
+   72  bash
+   73  ls
+   74  cd assignments
+   75  ls
+   76  cd trgn510_assignment1/
+   77  pwd
+   78  ls
+   79  vim README.md 
+   80  git add .-A
+   81  git add . -A
+   82  git commit -m "First commit"
+   83  git config --global user.email "badhesha-F22@trgn.usc.edu"
+   84  git confid --global user.name "badhesha-F22"
+   85  git config --global user.name "badhesha-F22"
+   86  git commit -m "First commit"
+   87  git push
+   88  ls
+   89  vim README.md 
+   90  git commit -m "First commit"
+   91  git add . -A
+   92  git commit -m "First commit"
+   93  git push
+   94  bash
+   95  ls
+   96  cd assignments/
+   97  ls
+   98  rm trgn510_assignment1/
+   99  rm -d trgn510_assignment1/
+  100  ls
+  101  cd trgn
+  102  cd trgn510_assignment1/
+  103  ls
+  104  rm README.md 
+  105  rm -d trgn510_assignment1
+  106  cd assignments
+  107  bash
+  108  ls
+  109  cd assignments/
+  110  ls
+  111  cd trgn510_assignment1/
+  112  ls
+  113  cd assigments
+  114  ls
+  115  cd assignments/
+  116  ls
+  117  rm -d trgn510_assignment1/
+  118  rm -r trgn510_assignment1/
+  119  y
+  120  git clone https://github.com/ShannaBadhesha/trgn510_assignment1.git
+  121  cd trgn510_assignment1/
+  122  ls
+  123  vim README.md 
+  124  git add . -A
+  125  git commit -m "First commit"
+  126  git push
+  127  mkdir problem1
+  128  history
+  129  ls
+  130  which ls
+  131  ls ~
+  132  history
+  133  whereis history
+  134  cd problem1/
+  135  history > myhistory.problem1.txt
