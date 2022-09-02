@@ -250,7 +250,7 @@ case ${TERM} in
         PS1=${PS1}"\[\e]0;[\u@\h] \w\a\]"
         ;;
     *)
-        PS1="(\A \u@\h \W) > " # --> PS1="(\A \u@\h \w) > "
+        PS1="(\A \u@\h \W) $ " # --> PS1="(\A \u@\h \w) $ "
                                # --> Shows full pathname of current dir.
         ;;
 esac
@@ -277,4 +277,4 @@ alias more='less'
 export PAGER=less
 export PATH=${PATH}:~/bin
 echo "The improved BASHRC is installed"
-echo "Welcome. You are $USER on $HOSTNAME" 
+echo "Welcome. You are $USER on $HOSTNAME" #Put this at the very last line

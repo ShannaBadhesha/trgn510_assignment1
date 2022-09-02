@@ -1,0 +1,384 @@
+    1  clear
+    2  ssh badhesha-F22@trgn.bioinfom.io
+    3  .bashrc .bashcold
+    4  exit
+    5  clear
+    6  ssh badhesha-F22@trgn.usc.edu
+    7  bash
+    8  ssh badhesha-F22@trgn.usc.edu
+    9  bash
+   10  wd
+   11  pwd
+   12  ls
+   13  exit
+   14  exit
+   15  bash
+   16  exit
+   17  exit
+   18  bash
+   19  exit
+   20  bash
+   21  pwd
+   22  mkdir TRGN514
+   23  ls 
+   24  cd TRGN514
+   25  mkdir Activity_1A
+   26  ls
+   27  pwd
+   28  ls
+   29  cd TRGN514
+   30  ls
+   31  cd Activity_1A/
+   32  pwd
+   33  ssh badhesha-F22@trgn.usc.edu
+   34  cd /home
+   35  ls
+   36  cd badhesha-F22
+   37  ls
+   38  cd TRGN514/
+   39  ls
+   40  cd Activity_1A/
+   41  pwd
+   42  vi
+   43  vi heartrate.txt
+   44  pwd
+   45  ls
+   46  chsh -s /bin/zsh
+   47  pwd
+   48  ls
+   49  cd TRGN514/
+   50  ls
+   51  cd A
+   52  cd Activity_1A/
+   53  ls
+   54  clear
+   55  cp -v /etc/skel/.bash* ~/
+   56  exit
+   57  bash
+   58  exit
+   59  bash
+   60  who
+   61  bash
+   62  hostname
+   63  bash
+   64  ls
+   65  mkdir assignments
+   66  ls
+   67  cd assignments/
+   68  git clone https://github.com/ShannaBadhesha/trgn510_assignment1.git
+   69  cd trgn510_assignment1/
+   70  ls
+   71  vim Readme.md
+   72  bash
+   73  ls
+   74  cd assignments
+   75  ls
+   76  cd trgn510_assignment1/
+   77  pwd
+   78  ls
+   79  vim README.md 
+   80  git add .-A
+   81  git add . -A
+   82  git commit -m "First commit"
+   83  git config --global user.email "badhesha-F22@trgn.usc.edu"
+   84  git confid --global user.name "badhesha-F22"
+   85  git config --global user.name "badhesha-F22"
+   86  git commit -m "First commit"
+   87  git push
+   88  ls
+   89  vim README.md 
+   90  git commit -m "First commit"
+   91  git add . -A
+   92  git commit -m "First commit"
+   93  git push
+   94  bash
+   95  ls
+   96  cd assignments/
+   97  ls
+   98  rm trgn510_assignment1/
+   99  rm -d trgn510_assignment1/
+  100  ls
+  101  cd trgn
+  102  cd trgn510_assignment1/
+  103  ls
+  104  rm README.md 
+  105  rm -d trgn510_assignment1
+  106  cd assignments
+  107  bash
+  108  ls
+  109  cd assignments/
+  110  ls
+  111  cd trgn510_assignment1/
+  112  ls
+  113  cd assigments
+  114  bash
+  115  ls
+  116  cd assignments/
+  117  ls
+  118  rm -d trgn510_assignment1/
+  119  rm -r trgn510_assignment1/
+  120  y
+  121  git clone https://github.com/ShannaBadhesha/trgn510_assignment1.git
+  122  cd trgn510_assignment1/
+  123  ls
+  124  vim README.md 
+  125  git add . -A
+  126  git commit -m "First commit"
+  127  git push
+  128  mkdir problem1
+  129  history
+  130  ls
+  131  which ls
+  132  ls ~
+  133  history
+  134  whereis history
+  135  cd problem1/
+  136  history > myhistory.problem1.txt
+  137  cat
+  138  ls
+  139  cd assignments/
+  140  ls
+  141  cd trgn510_assignment1/
+  142  ls
+  143  cd problem1/
+  144  ls
+  145  cat myhistory.problem1.txt 
+  146  ~
+  147  cd ~
+  148  ls
+  149  cd assignments/
+  150  ls
+  151  cd trgn510_assignment1/
+  152  mkdir problem2
+  153  ls
+  154  cp /data/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  155  cd problem2
+  156  .bashrc
+  157  bashrc_sample
+  158  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/ .
+  159  ls
+  160  vim bashrc_sample
+  161  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  162  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  163  exit
+  164  bash
+  165  exi
+  166  exit
+  167  bash
+  168  exit
+  169  ls ~
+  170  ls ~l
+  171  ls -l
+  172  pwd
+  173  who
+  174  cd ~
+  175  cat .bash_profile
+  176  cd ~
+  177  cd assignments/
+  178  ls
+  179  cd trgn510_assignment1/
+  180  ls
+  181  exit
+  182  bash
+  183  exit
+  184  bash 
+  185  ls
+  186  cd assignments/
+  187  ls
+  188  cd trgn510_assignment1/
+  189  ls
+  190  cd README.md 
+  191  vim README.md 
+  192  git add . -A
+  193  git commit -m "First commit"
+  194  git push
+  195  cd ~
+  196  $USER
+  197  $user
+  198  $hostname
+  199  ls
+  200  cd assignments/
+  201  ls
+  202  cd trgn510_assignment1/
+  203  ls
+  204  cd problem2
+  205  ls
+  206  vim bashrc_sample 
+  207  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  208  vim bashrc_sample 
+  209  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  210  echo $user
+  211  echo $hostname
+  212  echo $user
+  213  $echo $user
+  214  exit
+  215  bash
+  216  exit
+  217  $0
+  218  exit
+  219  cd assignments/
+  220  ls
+  221  cd trgn510_assignment1/
+  222  cd problem2
+  223  ls
+  224  cat bashrc_sample 
+  225  cd~
+  226  cd ~
+  227  ls
+  228  cd assignments/trgn510_assignment1/
+  229  ls
+  230  cd problem2
+  231  ls
+  232  cat bashrc_sample 
+  233  vim bashrc_sample 
+  234  PATH=/usr/bin:/usr/sbin
+  235  which bash
+  236  echo $SHELL
+  237  su username
+  238  su badhesha-F22
+  239  su options badhesha-F22
+  240  exit
+  241  bash
+  242  exit
+  243  bash
+  244  exit
+  245  bash
+  246  chsh -s /bin/bash
+  247  echo $SHELL
+  248  bash
+  249  ls
+  250  cd assignments/trgn510_assignment1/problem2
+  251  cat bashrc_sample 
+  252  vim bashrc_sample 
+  253  cat bashrc_sample 
+  254  exit
+  255  cd
+  256  ls
+  257  cd assignments/trgn510_assignment1/problem2
+  258  vim bashrc_sample 
+  259  cat bashrc_sample 
+  260  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  261  cp home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  262  cat .bashrc
+  263  ls
+  264  cd ~
+  265  ls ~
+  266  cd .bashrc
+  267  cat .bashrc
+  268  cd TRGN514
+  269  ls
+  270  cd Activity_1A/
+  271  ls
+  272  vim heartrate.txt 
+  273  whereis heartrate.txt 
+  274  pwd
+  275  cat heartrate.txt 
+  276  exit
+  277  cd
+  278  ls
+  279  cd TRGN514
+  280  ls
+  281  cd Activity_1A/
+  282  ls
+  283  pwd
+  284  cd TRGN514
+  285  ls
+  286  mkdir Activity_1B
+  287  cd Activity_1B
+  288  wget http://ecg.mit.edu/time-series/hr.11839
+  289  wget http://ecg.mit.edu/time-series/hr.7257
+  290  wget http://ecg.mit.edu/time-series/hr.207
+  291  wget http://ecg.mit.edu/time-series/hr.237
+  292  ls
+  293  mv hr.11839 series1_1800
+  294  ls
+  295  mv hr.207 series2_1800
+  296  ls
+  297  mv series2_1800 series3_950
+  298  ls
+  299  mv hr.7257 series2_1800
+  300  ls
+  301  mv hr.237 series4_950
+  302  ls
+  303  vi series_halfseconds_1800
+  304  cat series_halfseconds_1800 
+  305  vi series1_1800 
+  306  cd TRGN51
+  307  cd ~
+  308  cd TRGN514
+  309  ls
+  310  cd Activity_1B
+  311  ls
+  312  vi series1_1800 
+  313  vi series2_1800 
+  314  vi series3_950 
+  315  vi series4_950 
+  316  vi series1_1800 
+  317  vi series2_1800 
+  318  vi series3_950 
+  319  vi series4_950 
+  320  paste series_halfseconds_1800 series1_1800 series2_1800 series3_950 series4_950 > series_all_merged.txt
+  321  ls
+  322  vi series_all_merged.txt 
+  323  pwd
+  324  cd TRGN514
+  325  ls
+  326  cd Activity_1B
+  327  ls
+  328  vim series_all_merged.txt 
+  329  vim series1_1800 
+  330  vim series_halfseconds_1800 
+  331  vim series_all_merged.txt 
+  332  paste series_halfseconds_1800 series1_1800 series2_1800 series3_950 series4_950 > series_all_merged.txt 
+  333  ls
+  334  vim series_all_merged.txt 
+  335  wd
+  336  pwd
+  337  cd TRGN514
+  338  ls
+  339  cd Activity_1B
+  340  ls
+  341  vim series2_1800 
+  342  vim series3_950 
+  343  vim series4_950 
+  344  paste series_halfseconds_1800 series1_1800 series2_1800 series3_950 series4_950 > series_all_merged.txt 
+  345  vi series_all_merged.txt 
+  346  pwd
+  347  ls
+  348  cd assignments/
+  349  ls
+  350  cd trgn510_assignment1/
+  351  ls
+  352  cd problem2
+  353  ls
+  354  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample 
+  355  history
+  356  cp vimrc ~/.vimrc
+  357  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  358  cp vimrc ~/.vimrc
+  359  vi 
+  360  vi vimrc
+  361  ~
+  362  cd ~
+  363  cd assignments/trgn510_assignment1/
+  364  ls
+  365  mkdir problem 3
+  366  ls -l
+  367  ls
+  368  rmdir problem 3
+  369  ls
+  370  exit
+  371  ls
+  372  cd assignments/trgn510_assignment1/
+  373  ls
+  374  mkdir 'problem 3'
+  375  ls
+  376  ls -l
+  377  cd problem 3
+  378  ls
+  379  cd ~
+  380  cd assignments/trgn510_assignment1/
+  381  ls
+  382  cd 'problem 3'
+  383  history 
+  384  history > myhistory.txt
